@@ -8,6 +8,6 @@
 <body>
     <h1>my favorite city</h1>
     <p>my favorite city is Port Harcourt in Rivers state of Nigeria. I love Port Harcourt because of it industrial hub and green vegetations. The city is very clean and wide.</p>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6AYPFQ7F1RPe3pCEcuNStwI9VdgyQMVpLTA&s" />
+    <img src="images/download.jpeg" alt="Port Harcourt" />
 </body>
 </html>
